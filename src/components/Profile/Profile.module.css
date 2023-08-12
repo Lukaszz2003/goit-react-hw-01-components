@@ -7,6 +7,7 @@
   font-family: Helvetica;
   display: block;
   box-shadow: 2px 2px 2px 2px lightsteelblue;
+  border-radius: 5px;
 }
 .avatar {
   width: 300px;
@@ -28,7 +29,7 @@
   font-weight: 500;
   font-size: 28px;
   width: 100%;
-  color: magenta;
+  color: peru;
 }
 .tag {
   font-size: 18px;
@@ -51,7 +52,7 @@
 .stats_item {
   display: flex;
   flex-direction: column;
-  border: 1px rgba(0, 0, 0, 0.11) solid;
+  border: 1px solid black;
   align-items: center;
   width: calc(100% / 3);
   padding: 15px;
