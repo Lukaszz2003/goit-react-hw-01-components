@@ -20,7 +20,7 @@ export const App = () => {
         alignItems: 'center',
         fontSize: 24,
         color: '#010101',
-        backgroundColor: 'lightgray',
+        backgroundColor: 'darkgray',
       }}
     >
       <Profile
